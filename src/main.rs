@@ -46,6 +46,4 @@ fn main() {
     println!("10.0 as f32 / 3.0 as f32 = {}", 10.0 as f32 / 3.0 as f32);
     println!("10.0 as f64 / 3.0 as f64 = {}", 10.0 as f64 / 3.0 as f64);
   }
-
-
 }
